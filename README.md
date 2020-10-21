@@ -1,8 +1,6 @@
 <h2>Olá, seja bem-vindo!</h2>
 <p>Sou <strong>Maiquel Piovezan</strong>, bacharel em Sistemas de Informação e um desenvolvedor fullstack em constante evolução! Fique á vontade para copiar, sugerir e criticar meus projetos.</p>
-</br>
 <img src="https://github-readme-stats.vercel.app/api?username=maiquelp&show_icons=true&hide=,issues,contribs"/>
-</br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquelp&layout=compact"/>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maiquelp&repo=happy"/> -->
 <h3>Tecnologias:</h3>
