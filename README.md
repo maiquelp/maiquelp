@@ -5,7 +5,6 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquelp&layout=compact"/>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maiquelp&repo=happy"/> -->
-</br>
 <h3>Tecnologias:</h3>
 <p>
 &nbsp  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -16,7 +15,6 @@
 &nbsp <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <!-- <a href="https://icons8.com/">Icons by Icons8</a> -->
 </p>
-</br>
 <h3>Contato:</h3>
 <p>
 &nbsp <a href="https://www.linkedin.com/in/maiquelp/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
