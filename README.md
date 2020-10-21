@@ -5,8 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquelp&layout=compact"/>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maiquelp&repo=happy"/> -->
 <h3>Tecnologias:</h3>
-&nbsp <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+&nbsp <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
