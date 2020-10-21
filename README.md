@@ -1,18 +1,16 @@
 <h2>Olá, seja bem-vindo!</h2>
-<p>&nbsp Sou <strong>Maiquel Piovezan</strong>, bacharel em Sistemas de Informação e um desenvolvedor fullstack em constante evolução! Fique á vontade para copiar, sugerir e criticar meus projetos.</p>
+<p>Sou <strong>Maiquel Piovezan</strong>, bacharel em Sistemas de Informação e um desenvolvedor fullstack em constante evolução! Fique á vontade para copiar, sugerir e criticar meus projetos.</p>
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=maiquelp&show_icons=true&hide=,issues,contribs"/>
-</br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquelp&layout=compact"/>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maiquelp&repo=happy"/> -->
-</br></br>
 <h3>Tecnologias:</h3>
-&nbsp  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-&nbsp <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-&nbsp <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-&nbsp <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-&nbsp <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-&nbsp <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+&nbsp <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+&nbsp<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+&nbsp<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+&nbsp<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+&nbsp<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+&nbsp<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <!-- <a href="https://icons8.com/">Icons by Icons8</a> -->
 </br></br>
 <h3>Contato:</h3>
